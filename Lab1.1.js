@@ -1,4 +1,3 @@
-// Перша реалізація: inc з сигнатурою inc(n: number): number
 'use strict';
 
 function inc(n) {
